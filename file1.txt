@@ -1,1 +1,8 @@
-This is the version 1 of the file I created
+This is the version 2 of the file I created
+Name	Last commit message	Last commit date
+file1.txt
+added first file
+33 minutes ago
+friend1.txt
+Create friend1.txt
+now
